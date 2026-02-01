@@ -1,10 +1,23 @@
-.page{
-    background-color: aqua;
+ .body{
+    background-color: #1d1d1d; /* Cor cinza claro */
 }
+
 .parágrafos{
-    background-color: blue
+color: white
 }
 
 #importante{
-    background-color: red;
+    background-color: rgb(44, 44, 44);
+    font-size: xx-large;
+    color: white
+}
+
+.botão{
+    
+    border-radius: 10px;
+    color: black
+}
+
+.títulos{
+    color:white
 }
